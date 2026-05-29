@@ -1,0 +1,3 @@
+cd ~/Downloads
+git init && git add index.html && git commit -m "init"
+git branch -M main && git remote add origin https://github.com/YOUR_USERNAME/zhuataofan.git && git push -u origin main
